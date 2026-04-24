@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Emad
 
-<!--
-**mahmoud-emad-dev/mahmoud-emad-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-powered backend systems and product workflows with Python, FastAPI, LLM APIs, and retrieval pipelines.
 
-Here are some ideas to get you started:
+## Featured Project
+### [Voice Commerce Agent](https://github.com/mahmoud-emad-dev/voice-commerce-agent)
+A real-time shopping assistant that combines voice interaction, tool calling, semantic product search, and browser actions to guide users through discovery, cart, and checkout flows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Core Stack
+Python • FastAPI • Async APIs • PostgreSQL • Docker  
+LLM APIs • RAG • Tool Calling • WebSockets • Browser Automation • n8n
+
+## Open To
+AI Engineer, Python Backend, and LLM application roles  
+Remote, freelance, and Gulf-region opportunities
+
+## Contact
+- Email: `mahmoudemad.tech@gmail.com`
+- GitHub: [mahmoud-emad-dev](https://github.com/mahmoud-emad-dev)
